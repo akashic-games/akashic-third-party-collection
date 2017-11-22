@@ -13,6 +13,7 @@ Akashic Engine 向けライブラリ。 akashic-cli で `akashic install` によ
 * [akashic-label](https://github.com/akashic-games/akashic-label) - 自動折り返し・ルビ機能つきテキスト描画エンティティ(公式)。
 * [akashic-timeline](https://github.com/akashic-games/akashic-timeline) - トゥイーンアニメーションライブラリ(公式)。
 * [akashic-box2d](https://github.com/akashic-games/akashic-box2d) - Box2Dをラップした物理エンジンライブラリ(公式)。
+* [akashic-pagination](https://github.com/pocketberserker/akashic-pagination) - ページネーションエンティティ。
 
 ## ツール <a name="tools"></a>
 
