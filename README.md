@@ -21,6 +21,7 @@ Akashic Engine で利用可能なデータを生成するツールなど。
 
 * [bmpfont-generator](https://github.com/akashic-games/bmpfont-generator) - ビットマップフォント画像・グリフデータ生成ツール(公式)。
 * [complete-audio](https://github.com/akashic-games/complete-audio) - Akashicゲーム用音声フォーマット(.ogg, .aac)生成・変換ツール(公式)。
+* [headless-akashic](https://github.com/xnv/headless-akashic) - Node.js上で動作するAkashicゲームのヘッドレス実行ライブラリ。
 
 ## コンテンツ <a name="contents"></a>
 
