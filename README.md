@@ -14,6 +14,7 @@ Akashic Engine 向けライブラリ。 akashic-cli で `akashic install` によ
 * [akashic-timeline](https://github.com/akashic-games/akashic-timeline) - トゥイーンアニメーションライブラリ(公式)。
 * [akashic-box2d](https://github.com/akashic-games/akashic-box2d) - Box2Dをラップした物理エンジンライブラリ(公式)。
 * [akashic-pagination](https://github.com/pocketberserker/akashic-pagination) - ページネーションエンティティ。
+* [akashic-scrollable](https://github.com/xnv/akashic-scrollable) - スクロールバー・スクロール可能領域エンティティ。
 
 ## ツール <a name="tools"></a>
 
